@@ -1,5 +1,4 @@
 # Civic_issue_AI_detection
-# Civic Issue AI Detection
 
 An AI-powered web application designed to detect and classify civic issues from images using Machine Learning and Computer Vision. The system helps automate the identification of public infrastructure problems such as garbage accumulation, potholes, water leakage, damaged roads, and other civic concerns to support smarter and more efficient city management.
 
