@@ -4,7 +4,7 @@ An AI-powered web application designed to detect and classify civic issues from 
 
 ## Key Highlights
 
-* Achieved **97% model accuracy** on trained civic issue datasets
+* Achieved **98% model accuracy** on trained civic issue datasets
 * Real-time image-based civic issue detection
 * AI-powered classification using Computer Vision
 * Fast and responsive web interface
@@ -41,7 +41,7 @@ An AI-powered web application designed to detect and classify civic issues from 
 
 ## Model Performance
 
-* Accuracy: **97%**
+* Accuracy: **98%**
 * Trained on custom civic issue image datasets
 * Image preprocessing and augmentation applied
 * Optimized for fast inference and reliable predictions
