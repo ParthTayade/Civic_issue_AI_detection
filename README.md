@@ -35,8 +35,7 @@ An AI-powered web application designed to detect and classify civic issues from 
 ### AI / Machine Learning
 
 * Python
-* YOLOv8
-* OpenCV
+* Resnet18
 * PyTorch
 
 ## Model Performance
